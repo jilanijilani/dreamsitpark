@@ -309,6 +309,9 @@ main {
     margin-top: 631%;
     display: none;
 }
+    .fIcons p {
+    padding: 9px;
+}
 }
 
 
