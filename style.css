@@ -301,12 +301,13 @@ main {
     margin: 14px;
 }
 .e-phone {
-    left: 153px;
+    left: 164px;
     position: absolute;
-    top: 359vh;
+    top: 398vh;
 }
 .e-envope {
     margin-top: 631%;
+    display: none;
 }
 }
 
