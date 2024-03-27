@@ -300,13 +300,13 @@ main {
 .footerMenu {
     margin: 14px;
 }
-.e-envope {
-    margin-top: 659%;
-}
 .e-phone {
     left: 153px;
     position: absolute;
     top: 359vh;
+}
+.e-envope {
+    margin-top: 631%;
 }
 }
 
